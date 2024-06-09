@@ -4,48 +4,30 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me proporcionou conhecer o Amazon Bedrock e aprender um pouco mais sobre IAs generativas. Após esse bootcamp incrível, usei algumas IAs geenrativas para trabalhar em dois projetos, os quais falarei abaixo.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📒 As Criptos
+Utilizando IAs generativas, surgiu o As Criptos, um projeto criado para ensinar e dar dicas, de forma intuitiva, sobre criptomoedas, suas narrativas e projeções.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o ChatGPT, da OpenAI, para criar roteiros para os vídeos;
+Utilizei o TTSMaker para transformar o texto em voz;
+Utilizei o Adobe Express para colocar o áudio em um avatar animado;
+Utilizei o CapCut para criar legendas para o vídeo
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+## 📒 E-Book
+Inspirado no projeto acima citado, utilizei IA generativa para criar um e-book que fizesse uma breve introdução ao universo das criptomoedas.
+
+## 🤖 Tecnologias Utilizadas
+Utilizei o Gamma.app para criar o e-book, digitando no prompt o que eu precisava para meu projeto.
+Utilizei o Leonardo.ia para criar a capa do e-book
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Criei um perfil no TikTok para postar os vídeos que gerei. Esse é o link (https://www.tiktok.com/@as.criptos). Também postei um vídeo no meu perfil do LinkedIn 
+Também postei o e-book no meu perfil do LinkedIn
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Quando comecei a estudar Machine Learning e utilizar IAs generativas no meu dia-a-dia, nunca pensei que essa tecnologia seria tão importante e útil. De algo que usava e pesquisava apenas por curiosidade, tornou-se um projeto pessoal e de trabalho.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
