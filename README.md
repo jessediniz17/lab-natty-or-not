@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me proporcionou conhecer o Amazon Bedrock e aprender um pouco mais sobre IAs generativas. Após esse bootcamp incrível, usei algumas IAs geenrativas para trabalhar em dois projetos, os quais falarei abaixo.
+Olá! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me proporcionou conhecer o Amazon Bedrock e aprender um pouco mais sobre IAs generativas. Após esse bootcamp incrível, usei algumas IAs generativas para trabalhar em dois projetos, os quais falarei abaixo.
 
 ## 📒 As Criptos
 Utilizando IAs generativas, surgiu o As Criptos, um projeto criado para ensinar e dar dicas, de forma intuitiva, sobre criptomoedas, suas narrativas e projeções.
